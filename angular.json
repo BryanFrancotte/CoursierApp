@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/scss/coursier-material.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -79,6 +80,7 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
+              "src/assets/scss/coursier-material.scss",
               "src/styles.css"
             ],
             "scripts": [],
