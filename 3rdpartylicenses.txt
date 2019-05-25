@@ -345,6 +345,12 @@ MIT
 
 @angular/material/icon
 
+@angular/material/sidenav
+
+@angular/material/core
+
+@angular/material/list
+
 zone.js
 MIT
 The MIT License
